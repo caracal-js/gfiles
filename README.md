@@ -1,2 +1,2 @@
 # gfiles
-Games
+Games library
